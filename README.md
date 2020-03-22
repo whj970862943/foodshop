@@ -1,8 +1,15 @@
+# wmshop
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
 # install dependencies
-	npm install
+npm install
 
 # serve with hot reload at localhost:8080
-	npm run dev
+npm run dev
 
 ## 后台
     后台项目: 前后台分离
