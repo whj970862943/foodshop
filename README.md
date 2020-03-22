@@ -1,4 +1,4 @@
-# wmshop
+# foodshop
 
 > A Vue.js project
 
