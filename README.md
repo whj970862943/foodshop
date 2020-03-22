@@ -1,3 +1,9 @@
+# install dependencies
+	npm install
+
+# serve with hot reload at localhost:8080
+	npm run dev
+
 ## 后台
     后台项目: 前后台分离
     测试后台接口: 使用postman
